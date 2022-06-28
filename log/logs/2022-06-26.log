@@ -1,0 +1,4 @@
+2022-06-26 14:55:05,008 user_log.py --> <module> 34: DEBUG --> test
+2022-06-26 15:17:29,447 user_log.py --> <module> 43: DEBUG --> 123
+2022-06-26 15:18:41,164 user_log.py --> <module> 43: DEBUG --> 123456
+2022-06-26 15:26:01,181 log_util.py --> <module> 47: DEBUG --> 123456
